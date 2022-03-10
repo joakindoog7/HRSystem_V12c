@@ -1,5 +1,5 @@
 #  HRSystem_V12c (Actividad propuesta para clase día 29/12/21).
-.Formación con ADF en AYI Group.
+- Formación con ADF en AYI Group.
 Profesor: Paliza, Martín.
 
 Integrantes: Cortez, Gerardo Joaquin.
